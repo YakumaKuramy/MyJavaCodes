@@ -9,5 +9,5 @@ public class App {
     }
 }
 // Logo eu tenho um metodo principal que esta na classe do primeiro programa
-// que jfaz parte de um pacote 
+// que já faz parte de um pacote 
 
