@@ -1,3 +1,4 @@
+package edu.marcos.segundasemana;
 public class Testes {
     public static void main(String[] args) {
         String meuNome = "Marcos";
