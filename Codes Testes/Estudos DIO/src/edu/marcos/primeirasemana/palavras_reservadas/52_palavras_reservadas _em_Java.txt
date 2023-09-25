@@ -1,0 +1,25 @@
+A linguagem Java possui 52 palavras reservadas. 
+Todas essas palavras são classificadas em grupos e escritas com letra minuscula
+
+Controle de pacotes:
+    import -> importa pacotes ou classes para dentro do codigo
+
+    package -> especifica a que pacote todas as classes de um arquivo pertecem
+
+    protected -> acesso por classes no mesmo pacote e subclasses <- uso de herança
+
+Tipos Primitivos
+
+Modificadores de classes ou metodos
+
+Controle de fluxo dentro de um bloco de codigo
+    break -> sai do bloco de codigo em que ele esta
+
+    case -> executa um bloco de codigo dependendo do teste do switch
+
+    continue -> pula a execução do codigo que viria apos essa linha e vai
+                para a proxima passagem do loop
+
+Variaveis de referencia
+
+Palavras "opostas"

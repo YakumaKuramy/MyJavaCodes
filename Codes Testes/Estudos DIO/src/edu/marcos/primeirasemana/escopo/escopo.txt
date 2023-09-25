@@ -1,0 +1,15 @@
+Escopo de codigo
+Objetivo:
+    Identificar a localização mais conveninete para a escrita 
+    de algoritmos necessarios para nosso programa
+
+Assuntos:
+    Escopo de classe
+    Escopo de metodo
+    Escopo de fluxo
+
+O que é escopo:
+    Pode ser entendido como o ambiente onde a variavel pode ser acessada.
+    Em java, o escopo de variaveis vai de acordo com o bloco onde ela foi declarada.
+    A variavel é criada no primeiro acesso a ela, se tornando inacessivel apos o
+    interpretador sair do bloco de execução da qual ela pertece.

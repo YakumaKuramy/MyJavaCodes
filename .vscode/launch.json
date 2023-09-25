@@ -1,0 +1,125 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "SobreMim",
+            "request": "launch",
+            "mainClass": "edu.marcos.primeirasemana.SobreMim",
+            "projectName": "MyJavaCodes_9ee9fd54"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AboutMe",
+            "args": [
+                "Marcos",
+                "Sousa",
+                "26",
+                "1.65"
+            ],
+            "request": "launch",
+            "mainClass": "edu.marcos.primeirasemana.AboutMe",
+            "projectName": "MyJavaCodes_9ee9fd54"
+        },
+        {
+            "type": "java",
+            "name": "BoletimEstudantil",
+            "request": "launch",
+            "mainClass": "edu.marcos.primeirasemana.BoletimEstudantil",
+            "projectName": "MyJavaCodes_9ee9fd54"
+        },
+        {
+            "type": "java",
+            "name": "TestePrint",
+            "request": "launch",
+            "mainClass": "edu.marcos.primeirasemana.TestePrint",
+            "projectName": "MyJavaCodes_9ee9fd54"
+        },
+        {
+            "type": "java",
+            "name": "Usuario",
+            "request": "launch",
+            "mainClass": "edu.marcos.primeirasemana.metodos.Usuario",
+            "projectName": "MyJavaCodes_9ee9fd54"
+        },
+        {
+            "type": "java",
+            "name": "MetodoEquals",
+            "request": "launch",
+            "mainClass": "edu.marcos.primeirasemana.operadores.MetodoEquals",
+            "projectName": "MyJavaCodes_9ee9fd54"
+        },
+        {
+            "type": "java",
+            "name": "OperadorTernario",
+            "request": "launch",
+            "mainClass": "edu.marcos.primeirasemana.operadores.OperadorTernario",
+            "projectName": "MyJavaCodes_9ee9fd54"
+        },
+        {
+            "type": "java",
+            "name": "OperadoresAritmeticos",
+            "request": "launch",
+            "mainClass": "edu.marcos.primeirasemana.operadores.OperadoresAritmeticos",
+            "projectName": "MyJavaCodes_9ee9fd54"
+        },
+        {
+            "type": "java",
+            "name": "OperadoresAtribuicao",
+            "request": "launch",
+            "mainClass": "edu.marcos.primeirasemana.operadores.OperadoresAtribuicao",
+            "projectName": "MyJavaCodes_9ee9fd54"
+        },
+        {
+            "type": "java",
+            "name": "OperadoresLogicos",
+            "request": "launch",
+            "mainClass": "edu.marcos.primeirasemana.operadores.OperadoresLogicos",
+            "projectName": "MyJavaCodes_9ee9fd54"
+        },
+        {
+            "type": "java",
+            "name": "OperadoresRelacionais",
+            "request": "launch",
+            "mainClass": "edu.marcos.primeirasemana.operadores.OperadoresRelacionais",
+            "projectName": "MyJavaCodes_9ee9fd54"
+        },
+        {
+            "type": "java",
+            "name": "OperadoresUnarios",
+            "request": "launch",
+            "mainClass": "edu.marcos.primeirasemana.operadores.OperadoresUnarios",
+            "projectName": "MyJavaCodes_9ee9fd54"
+        },
+        {
+            "type": "java",
+            "name": "OperadoresUnariosIncremento",
+            "request": "launch",
+            "mainClass": "edu.marcos.primeirasemana.operadores.OperadoresUnariosIncremento",
+            "projectName": "MyJavaCodes_9ee9fd54"
+        },
+        {
+            "type": "java",
+            "name": "OperadoresUnariosTorF",
+            "request": "launch",
+            "mainClass": "edu.marcos.primeirasemana.operadores.OperadoresUnariosTorF",
+            "projectName": "MyJavaCodes_9ee9fd54"
+        },
+        {
+            "type": "java",
+            "name": "Testes",
+            "request": "launch",
+            "mainClass": "edu.marcos.segundasemana.Testes",
+            "projectName": "MyJavaCodes_9ee9fd54"
+        }
+    ]
+}
