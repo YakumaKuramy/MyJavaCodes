@@ -1,0 +1,28 @@
+Assuntos
+Qual a proposta principal do metodo?
+Qual tipo de retorno esperado apos executar o metodo?
+Quais parametros serão necessarios para execução do metodo?
+O metodo possui o risco de apresnetar alguma exceção?
+Qual a visibilidade do metodo?
+
+Forma de nomeação de metodos: 
+    Deve ser nomeado como verbo
+    Seguir o padrão camelCase (todas as letras minusculas menos a primeira letra da segunda palavra)
+
+Exemplos:
+    public double somar(int n2, int n2) {
+        #seu codigo aqui
+        return ...;
+    }
+    public void imprimir(String text) { 
+        #seu codigo aqui
+    }
+    Esta função retornara uma exeção se alguem pedir pra dividir por zero
+    public double dividir(int dividendo, int divisor) thrws Exception{
+
+    }
+
+Exemplo errado:
+    calcularImprimir() {
+        #seu codigo aqui
+    }

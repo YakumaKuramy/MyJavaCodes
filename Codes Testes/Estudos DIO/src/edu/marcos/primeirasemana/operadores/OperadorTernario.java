@@ -1,4 +1,4 @@
-package edu.marcos.primeirasemana.tipos_operadores;
+package edu.marcos.primeirasemana.operadores;
 
 public class OperadorTernario {
     public static void main(String [] args){
