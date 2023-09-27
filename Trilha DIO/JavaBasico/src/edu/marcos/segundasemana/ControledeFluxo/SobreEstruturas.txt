@@ -1,0 +1,10 @@
+Estrutura condicional
+
+    A estrutura condicional possiblita a escolha de um grupo 
+    de ações e comportamentos a serem executadas quando 
+    determinadas codições são ou não satisfeitas.
+    A estrutura condicional pode ser simples ou composta.
+
+    Condicional simples ->
+        Quando ocorre uma validação de execução de fluxo somente
+        quando a condição for positiva, consideramos como uma estrutura simples

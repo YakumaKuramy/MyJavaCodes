@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodicaoTernaria",
+            "request": "launch",
+            "mainClass": "edu.marcos.segundasemana.ControledeFluxo.CodicaoTernaria",
+            "projectName": "MyJavaCodes_9ee9fd54"
+        },
+        {
+            "type": "java",
+            "name": "ControleFluxoEncadeado",
+            "request": "launch",
+            "mainClass": "edu.marcos.segundasemana.ControledeFluxo.ControleFluxoEncadeado",
+            "projectName": "MyJavaCodes_9ee9fd54"
+        },
+        {
+            "type": "java",
+            "name": "ResultadorEscolar",
+            "request": "launch",
+            "mainClass": "edu.marcos.segundasemana.ControledeFluxo.ResultadorEscolar",
+            "projectName": "MyJavaCodes_9ee9fd54"
+        },
+        {
+            "type": "java",
+            "name": "CaixaEletronico",
+            "request": "launch",
+            "mainClass": "edu.marcos.segundasemana.ControledeFluxo.CaixaEletronico",
+            "projectName": "MyJavaCodes_9ee9fd54"
+        },
+        {
+            "type": "java",
+            "name": "ControleFluxo",
+            "request": "launch",
+            "mainClass": "edu.marcos.segundasemana.ControledeFluxo.ControleFluxo",
+            "projectName": "MyJavaCodes_9ee9fd54"
+        },
+        {
+            "type": "java",
             "name": "SobreMim",
             "request": "launch",
             "mainClass": "edu.marcos.primeirasemana.SobreMim",

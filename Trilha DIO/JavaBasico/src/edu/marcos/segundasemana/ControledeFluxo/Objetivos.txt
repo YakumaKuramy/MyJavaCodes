@@ -1,0 +1,18 @@
+Objetivos da semana
+Aprender os conceitos e explorar os tipos de fluxos condicional, 
+excepcional e de repetição em uma aplicação Java.
+
+TODO ->
+Entendimento dos conceitos
+    Estruturas condicionais: if-else, switch-case;
+    Estruturas de repetição: for, while, do-while;
+    Estruturas de exceções: try-catch-finally, throw  
+    *exeções não são necessariamente erros, elas são casos especiais que direciona ou muda o fluxo do codigo*
+
+Projetos 
+    Projetos que ponham em pratica os conceitos aprendidos
+
+Controle de fluxo
+    É a habilidade de ajustar a maneira como o programa realiza as tarefas.
+    Por meio de instruções especiais, chamadas de comandos, essas tarefas
+    podem ser executadas seletivamente, repetidamente ou excepcionalmente. 
