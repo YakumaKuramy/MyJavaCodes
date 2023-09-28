@@ -2,7 +2,11 @@ import java.util.Scanner;
 
 public class ContaTerminal {
     public static void main(String[] args) {
-        
+        /*TODO
+        Criação do objeto scanner
+        Pedir informações ao usuario com print definindo qual informação esta sendo pedida 
+        Imprimir uma mensagem final 
+        */
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Por favor, informe o numero da conta: ");

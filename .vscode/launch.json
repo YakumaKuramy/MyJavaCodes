@@ -6,6 +6,97 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ExemploDoWhile",
+            "request": "launch",
+            "mainClass": "edu.marcos.segundasemana.EstruturaRepeticao.ExemploDoWhile",
+            "projectName": "MyJavaCodes_9ee9fd54"
+        },
+        {
+            "type": "java",
+            "name": "ExemploWhile",
+            "request": "launch",
+            "mainClass": "edu.marcos.segundasemana.EstruturaRepeticao.ExemploWhile",
+            "projectName": "MyJavaCodes_9ee9fd54"
+        },
+        {
+            "type": "java",
+            "name": "ExemploBreakContinue",
+            "request": "launch",
+            "mainClass": "edu.marcos.segundasemana.EstruturaRepeticao.ExemploBreakContinue",
+            "projectName": "MyJavaCodes_9ee9fd54"
+        },
+        {
+            "type": "java",
+            "name": "ExemploForEach",
+            "request": "launch",
+            "mainClass": "edu.marcos.segundasemana.EstruturaRepeticao.ExemploForEach",
+            "projectName": "MyJavaCodes_9ee9fd54"
+        },
+        {
+            "type": "java",
+            "name": "ExemploForArray",
+            "request": "launch",
+            "mainClass": "edu.marcos.segundasemana.EstruturaRepeticao.ExemploForArray",
+            "projectName": "MyJavaCodes_9ee9fd54"
+        },
+        {
+            "type": "java",
+            "name": "ExemploFor",
+            "request": "launch",
+            "mainClass": "edu.marcos.segundasemana.EstruturaRepeticao.ExemploFor",
+            "projectName": "MyJavaCodes_9ee9fd54"
+        },
+        {
+            "type": "java",
+            "name": "PlanoOperadora",
+            "request": "launch",
+            "mainClass": "edu.marcos.segundasemana.ControledeFluxo.PlanoOperadora",
+            "projectName": "MyJavaCodes_9ee9fd54"
+        },
+        {
+            "type": "java",
+            "name": "SistemaMedida",
+            "request": "launch",
+            "mainClass": "edu.marcos.segundasemana.ControledeFluxo.SistemaMedida",
+            "projectName": "MyJavaCodes_9ee9fd54"
+        },
+        {
+            "type": "java",
+            "name": "CodicaoTernaria",
+            "request": "launch",
+            "mainClass": "edu.marcos.segundasemana.ControledeFluxo.CodicaoTernaria",
+            "projectName": "MyJavaCodes_9ee9fd54"
+        },
+        {
+            "type": "java",
+            "name": "ControleFluxoEncadeado",
+            "request": "launch",
+            "mainClass": "edu.marcos.segundasemana.ControledeFluxo.ControleFluxoEncadeado",
+            "projectName": "MyJavaCodes_9ee9fd54"
+        },
+        {
+            "type": "java",
+            "name": "ResultadorEscolar",
+            "request": "launch",
+            "mainClass": "edu.marcos.segundasemana.ControledeFluxo.ResultadorEscolar",
+            "projectName": "MyJavaCodes_9ee9fd54"
+        },
+        {
+            "type": "java",
+            "name": "CaixaEletronico",
+            "request": "launch",
+            "mainClass": "edu.marcos.segundasemana.ControledeFluxo.CaixaEletronico",
+            "projectName": "MyJavaCodes_9ee9fd54"
+        },
+        {
+            "type": "java",
+            "name": "ControleFluxo",
+            "request": "launch",
+            "mainClass": "edu.marcos.segundasemana.ControledeFluxo.ControleFluxo",
+            "projectName": "MyJavaCodes_9ee9fd54"
+        },
+        {
+            "type": "java",
             "name": "SobreMim",
             "request": "launch",
             "mainClass": "edu.marcos.primeirasemana.SobreMim",
