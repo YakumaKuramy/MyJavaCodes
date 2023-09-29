@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ExemploFormatadorCep",
+            "request": "launch",
+            "mainClass": "edu.marcos.segundasemana.EstruturasExcepcionais.ExemploFormatadorCep",
+            "projectName": "MyJavaCodes_9ee9fd54"
+        },
+        {
+            "type": "java",
+            "name": "AboutMe",
+            "request": "launch",
+            "mainClass": "edu.marcos.segundasemana.EstruturasExcepcionais.AboutMe",
+            "projectName": "MyJavaCodes_9ee9fd54"
+        },
+        {
+            "type": "java",
             "name": "ExemploDoWhile",
             "request": "launch",
             "mainClass": "edu.marcos.segundasemana.EstruturaRepeticao.ExemploDoWhile",
