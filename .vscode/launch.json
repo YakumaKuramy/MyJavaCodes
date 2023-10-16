@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Impressao",
+            "request": "launch",
+            "mainClass": "POO_UFC.POOisFUN.impressao.Impressao",
+            "projectName": "MyJavaCodes_9ee9fd54"
+        },
+        {
+            "type": "java",
             "name": "ExemploFormatadorCep",
             "request": "launch",
             "mainClass": "edu.marcos.segundasemana.EstruturasExcepcionais.ExemploFormatadorCep",
